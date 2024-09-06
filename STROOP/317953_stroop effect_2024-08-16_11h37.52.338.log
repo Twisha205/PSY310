@@ -1,0 +1,242 @@
+12.8259 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+12.8270 	INFO 	Loaded monitor calibration from ['2024_08_09 11:14']
+13.6777 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5970>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5910>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5760>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C430BBB880>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.6779 	EXP 	window1: backgroundImage = ''
+13.6779 	EXP 	window1: backgroundFit = 'none'
+13.6782 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.6787 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.6874 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.6879 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.7000 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7023 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7035 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7046 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7052 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7061 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7077 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7082 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7091 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7100 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7108 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7122 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7131 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7140 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7149 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7162 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7172 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7178 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7192 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.7553 	DEBUG 	Upload of Texture Font fontname complete
+13.7570 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.7572 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.7577 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.7581 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001C4307C5730>
+13.7637 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7662 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.7665 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.7836 	DEBUG 	Upload of Texture Font fontname complete
+13.7865 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.7865 	EXP 	window1: recordFrameIntervals = False
+13.9637 	EXP 	window1: recordFrameIntervals = True
+14.2799 	EXP 	Screen (0) actual frame rate measured at 61.34Hz
+14.2800 	EXP 	window1: recordFrameIntervals = False
+14.2801 	EXP 	window1: mouseVisible = False
+14.2806 	EXP 	window1: mouseVisible = False
+14.2809 	EXP 	window1: mouseVisible = False
+14.2818 	EXP 	window1: mouseVisible = False
+14.2824 	EXP 	window1: mouseVisible = False
+14.2884 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2958 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2996 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.3011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.3039 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.3064 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.3070 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.3078 	DEBUG 	Upload of Texture Font fontname complete
+14.3107 	EXP 	window1: mouseVisible = False
+14.3109 	EXP 	window1: mouseVisible = False
+14.3120 	EXP 	window1: mouseVisible = False
+14.3134 	EXP 	window1: mouseVisible = False
+14.4564 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+18.6511 	INFO 	keyboard.Keyboard is using iohub backend.
+18.6511 	INFO 	keyboard.Keyboard is using iohub backend.
+18.6511 	EXP 	stroop effect: status = STARTED
+18.6513 	EXP 	window1: mouseVisible = False
+18.6558 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+18.6562 	EXP 	window1: mouseVisible = False
+18.7333 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.7334 	EXP 	window1: mouseVisible = False
+18.9541 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='thankyou', units='height', win=Window(...), wrapWidth=1)
+0.0597 	DEBUG 	Read excel file with openpyxl: C:/Users/HP/OneDrive/Desktop/Lab in Psych PSY310/Stroop effect.xlsx
+0.0603 	EXP 	Imported C:/Users/HP/OneDrive/Desktop/Lab in Psych PSY310/Stroop effect.xlsx as conditions, 4 conditions, 4 params
+0.0625 	EXP 	Created sequence: random, trialTypes=4, nReps=10, seed=None
+0.0629 	EXP 	New trial (rep=0, index=0): {'word': 'RED', 'colour': 'red', 'stim_condition': 'C', 'correct_res': 'r'}
+0.0632 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+0.0633 	EXP 	New trial (rep=0, index=0): None
+0.0991 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+0.0991 	EXP 	text: height = 0.05
+0.0991 	EXP 	text: height = 0.05
+0.0991 	EXP 	text: height = 0.05
+0.0991 	EXP 	text: text = 'RED'
+0.0991 	EXP 	fixation: autoDraw = True
+0.5096 	INFO 	Keyboard events cleared
+0.5093 	EXP 	text: autoDraw = True
+0.6101 	EXP 	fixation: autoDraw = False
+5.0082 	EXP 	text: autoDraw = False
+151.0417 	EXP 	New trial (rep=1, index=0): None
+151.0579 	EXP 	fixation: autoDraw = False
+151.0579 	EXP 	text: autoDraw = False
+151.0579 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+151.0579 	EXP 	text: text = 'RED'
+151.0579 	EXP 	fixation: autoDraw = True
+151.5416 	INFO 	Keyboard events cleared
+151.5409 	EXP 	text: autoDraw = True
+151.5576 	EXP 	fixation: autoDraw = False
+156.0410 	EXP 	text: autoDraw = False
+164.8156 	EXP 	New trial (rep=2, index=0): None
+164.8243 	EXP 	fixation: autoDraw = False
+164.8243 	EXP 	text: autoDraw = False
+164.8243 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+164.8243 	EXP 	text: text = 'RED'
+164.8243 	EXP 	fixation: autoDraw = True
+165.3248 	INFO 	Keyboard events cleared
+165.3243 	EXP 	fixation: autoDraw = False
+165.3243 	EXP 	text: autoDraw = True
+168.6689 	EXP 	New trial (rep=3, index=0): None
+168.6744 	EXP 	fixation: autoDraw = False
+168.6744 	EXP 	text: autoDraw = False
+168.6744 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+168.6744 	EXP 	text: text = 'RED'
+168.6744 	EXP 	fixation: autoDraw = True
+169.1749 	INFO 	Keyboard events cleared
+169.1743 	EXP 	fixation: autoDraw = False
+169.1743 	EXP 	text: autoDraw = True
+169.6162 	EXP 	New trial (rep=4, index=0): None
+169.6246 	EXP 	fixation: autoDraw = False
+169.6246 	EXP 	text: autoDraw = False
+169.6246 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+169.6246 	EXP 	text: text = 'RED'
+169.6246 	EXP 	fixation: autoDraw = True
+170.1250 	INFO 	Keyboard events cleared
+170.1246 	EXP 	fixation: autoDraw = False
+170.1246 	EXP 	text: autoDraw = True
+174.6245 	EXP 	text: autoDraw = False
+176.1571 	EXP 	fixation: autoDraw = False
+176.1571 	EXP 	text: autoDraw = False
+176.1571 	EXP 	text_2: autoDraw = True
+177.1476 	EXP 	New trial (rep=0, index=1): {'word': 'RED', 'colour': 'blue', 'stim_condition': 'I', 'correct_res': 'b'}
+177.1482 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+177.1486 	EXP 	New trial (rep=0, index=0): None
+177.1577 	EXP 	text_2: autoDraw = False
+177.1577 	EXP 	text_2: autoDraw = False
+177.1577 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+177.1577 	EXP 	text: text = 'RED'
+177.1577 	EXP 	fixation: autoDraw = True
+177.6585 	INFO 	Keyboard events cleared
+177.6575 	EXP 	fixation: autoDraw = False
+177.6575 	EXP 	text: autoDraw = True
+182.1575 	EXP 	text: autoDraw = False
+190.7829 	EXP 	New trial (rep=1, index=0): None
+190.7908 	EXP 	fixation: autoDraw = False
+190.7908 	EXP 	text: autoDraw = False
+190.7908 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+190.7908 	EXP 	text: text = 'RED'
+190.7908 	EXP 	fixation: autoDraw = True
+191.2910 	INFO 	Keyboard events cleared
+191.2905 	EXP 	fixation: autoDraw = False
+191.2905 	EXP 	text: autoDraw = True
+192.1825 	EXP 	New trial (rep=2, index=0): None
+192.1910 	EXP 	fixation: autoDraw = False
+192.1910 	EXP 	text: autoDraw = False
+192.1910 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+192.1910 	EXP 	text: text = 'RED'
+192.1910 	EXP 	fixation: autoDraw = True
+192.6915 	INFO 	Keyboard events cleared
+192.6910 	EXP 	fixation: autoDraw = False
+192.6910 	EXP 	text: autoDraw = True
+193.6350 	EXP 	New trial (rep=3, index=0): None
+193.6421 	EXP 	fixation: autoDraw = False
+193.6421 	EXP 	text: autoDraw = False
+193.6421 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+193.6421 	EXP 	text: text = 'RED'
+193.6421 	EXP 	fixation: autoDraw = True
+194.1416 	INFO 	Keyboard events cleared
+194.1412 	EXP 	text: autoDraw = True
+194.1578 	EXP 	fixation: autoDraw = False
+198.6407 	EXP 	text: autoDraw = False
+208.3331 	EXP 	New trial (rep=4, index=0): None
+208.3412 	EXP 	fixation: autoDraw = False
+208.3412 	EXP 	text: autoDraw = False
+208.3412 	EXP 	text: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+208.3412 	EXP 	text: text = 'RED'
+208.3412 	EXP 	fixation: autoDraw = True
+208.8419 	INFO 	Keyboard events cleared
+208.8413 	EXP 	fixation: autoDraw = False
+208.8413 	EXP 	text: autoDraw = True
+213.3408 	EXP 	text: autoDraw = False
+231.6740 	EXP 	fixation: autoDraw = False
+231.6740 	EXP 	text: autoDraw = False
+231.6740 	EXP 	text_2: autoDraw = True
+232.6646 	EXP 	New trial (rep=0, index=2): {'word': 'BLUE', 'colour': 'red', 'stim_condition': 'I', 'correct_res': 'r'}
+232.6654 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+232.6657 	EXP 	New trial (rep=0, index=0): None
+232.6911 	EXP 	text_2: autoDraw = False
+232.6911 	EXP 	text_2: autoDraw = False
+232.6911 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+232.6911 	EXP 	text: height = 0.05
+232.6911 	EXP 	text: height = 0.05
+232.6911 	EXP 	text: height = 0.05
+232.6911 	EXP 	text: text = 'BLUE'
+232.6911 	EXP 	fixation: autoDraw = True
+233.1744 	INFO 	Keyboard events cleared
+233.1738 	EXP 	text: autoDraw = True
+233.1904 	EXP 	fixation: autoDraw = False
+235.4205 	EXP 	New trial (rep=1, index=0): None
+235.4410 	EXP 	fixation: autoDraw = False
+235.4410 	EXP 	text: autoDraw = False
+235.4410 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+235.4410 	EXP 	text: text = 'BLUE'
+235.4410 	EXP 	fixation: autoDraw = True
+235.9252 	INFO 	Keyboard events cleared
+235.9247 	EXP 	text: autoDraw = True
+235.9408 	EXP 	fixation: autoDraw = False
+236.9817 	EXP 	New trial (rep=2, index=0): None
+236.9911 	EXP 	fixation: autoDraw = False
+236.9911 	EXP 	text: autoDraw = False
+236.9911 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+236.9911 	EXP 	text: text = 'BLUE'
+236.9911 	EXP 	fixation: autoDraw = True
+237.4916 	INFO 	Keyboard events cleared
+237.4910 	EXP 	fixation: autoDraw = False
+237.4910 	EXP 	text: autoDraw = True
+237.6645 	EXP 	New trial (rep=3, index=0): None
+237.6743 	EXP 	fixation: autoDraw = False
+237.6743 	EXP 	text: autoDraw = False
+237.6743 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+237.6743 	EXP 	text: text = 'BLUE'
+237.6743 	EXP 	fixation: autoDraw = True
+238.1750 	INFO 	Keyboard events cleared
+238.1744 	EXP 	fixation: autoDraw = False
+238.1744 	EXP 	text: autoDraw = True
+239.9322 	EXP 	New trial (rep=4, index=0): None
+239.9414 	EXP 	fixation: autoDraw = False
+239.9414 	EXP 	text: autoDraw = False
+239.9414 	EXP 	text: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+239.9414 	EXP 	text: text = 'BLUE'
+239.9414 	EXP 	fixation: autoDraw = True
+240.4418 	INFO 	Keyboard events cleared
+240.4411 	EXP 	fixation: autoDraw = False
+240.4411 	EXP 	text: autoDraw = True
+244.9410 	EXP 	text: autoDraw = False
+428.8815 	EXP 	window1: mouseVisible = True
+428.8915 	DEBUG 	Saving data for stroop effect ExperimentHandler
+428.8946 	INFO 	saved data to C:\Users\HP\OneDrive\Desktop\Lab in Psych PSY310\data/317953_stroop effect_2024-08-16_11h37.52.338.psydat
+428.8989 	INFO 	saved data to 'C:\\Users\\HP\\OneDrive\\Desktop\\Lab in Psych PSY310\\data/317953_stroop effect_2024-08-16_11h37.52.338.csv'

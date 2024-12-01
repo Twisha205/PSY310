@@ -1,0 +1,28 @@
+pair_type	string_1	string_2	is_word	key_resp_2.rt												
+																
+Weakly-Related	KEAP	KEEP	0	3.1929338												
+Weakly-Related	CYCLE	TRAYN	0	0.9334369										Mean	Standard error	Standard Deviation
+Unrelated	CHAIR	FRUGT	0	1.0588103			Mean of Weakly related words	1.103615954	0.769083917	0.722559617	0.8437637	1.032754581		0.894355554	0.074401132	0.166365989
+Unrelated	DOG	PLOON	0	0.9922252			Mean of Unrelated words	0.990704683	0.85540998	0.56801875	0.8008972	1.032754581		0.849557039	0.073525463	0.164407933
+Strongly-Related	SALT	PEPPER	1	1.3454023			Mean of Strongly related words	1.003943105	0.644455922	0.636443522	0.644642378	1.032754581		0.792447902	0.092347979	0.20649636
+Unrelated	HAMMER	FOME	0	1.4627723												
+Unrelated	BOOK	ZERT	0	0.986236												
+Weakly-Related	JUGDE	JUDGE	0	0.8144511												
+Strongly-Related	CANDLE	LIGHT	1	0.7584661												
+Strongly-Related	CAT	DOG	1	0.7834426												
+Strongly-Related	BUTTER	BREAD	1	0.8262754												
+Unrelated	CLOUD	GLEP	0	0.9639094												
+Strongly-Related	WINTER	SNOW	1	0.8343914												
+Unrelated	TRAIN	GLOP	0	1.2788075												
+Weakly-Related	TABLE	PLANT	1	0.8680069												
+Unrelated	BRICK	THARE	0	0.9409927												
+Unrelated	FREAK	BREAK	1	0.7463642												
+Unrelated	LIGHT	KORON	0	1.312861												
+Strongly-Related	TREE	LEAF	1	0.7952392												
+Unrelated	GLASS	HURP	0	1.0640307												
+Strongly-Related	SUN	MOON	1	1.1169455												
+Weakly-Related	CLOUD	STONE	0	1.0403166												
+Strongly-Related	BOOK	PAGE	1	1.1555145												
+Weakly-Related	PAPER	BOTTLE	0	1.2149513												
+Strongly-Related	SUMMER	HOT	1	0.7734285												
+				1.0224015												
